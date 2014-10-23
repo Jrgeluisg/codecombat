@@ -204,7 +204,7 @@ module.exports = nativeDescription: "español (América Latina)", englishDescrip
     victory_return_to_ladder: "Volver a la escalera"
     victory_play_next_level: "Jugar Próximo Nivel" # Only in old-style levels.
     victory_play_continue: "Continuar"
-#    victory_saving_progress: "Saving Progress"
+    victory_saving_progress:"Guardando progreso de Victoria" #"Saving Progress"
     victory_go_home: "Ir al Inicio" # Only in old-style levels.
     victory_review: "¡Cuéntanos más!" # Only in old-style levels.
     victory_hour_of_code_done: "¿Has acabado?"
@@ -227,7 +227,7 @@ module.exports = nativeDescription: "español (América Latina)", englishDescrip
     tome_available_spells: "Hechizos Disponibles"
     tome_your_skills: "Tus habilidades"
     hud_continue: "Continuar (presionar shift+space)"
-#    code_saved: "Code Saved"
+    code_saved: "Codigo guardado" #"Code Saved"
     skip_tutorial: "Saltar (esc)"
     keyboard_shortcuts: "Atajos de teclado"
     loading_ready: "¡Listo!"
@@ -440,12 +440,12 @@ module.exports = nativeDescription: "español (América Latina)", englishDescrip
 #    thang_editor_suffix: "to modify the CodeCombat source artwork. Allow units to throw projectiles, alter the direction of an animation, change a unit's hit points, or upload your own vector sprites."
 #    article_editor_prefix: "See a mistake in some of our docs? Want to make some instructions for your own creations? Check out the"
 #    article_editor_suffix: "and help CodeCombat players get the most out of their playtime."
-#    find_us: "Find us on these sites"
+    find_us: "Encuentranos en estos sitios(redes sociales)" #"Find us on these sites"
 #    social_blog: "Read the CodeCombat blog on Sett"
 #    social_discource: "Join the discussion on our Discourse forum"
-#    social_facebook: "Like CodeCombat on Facebook"
-#    social_twitter: "Follow CodeCombat on Twitter"
-#    social_gplus: "Join CodeCombat on Google+"
+    social_facebook:"Dale me gusta en Face"
+    social_twitter:"Sigue a CodeCombat en Twitter"
+    social_gplus:"Unete a CodeCombate en Google+"
 #    social_hipchat: "Chat with us in the public CodeCombat HipChat room"
 #    contribute_to_the_project: "Contribute to the project"
 
